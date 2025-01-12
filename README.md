@@ -1,6 +1,5 @@
 
 ![9g7tam](https://github.com/user-attachments/assets/a27f57c0-753f-47b3-a31b-d944ea3a3b8e)
-<img src="https://jobpakado.com/wp-content/uploads/2024/04/Full-Stack-Developer-1.gif">
 <h1 style="color: red;">Software Testing Project </h1>
 This is software testing repository designed for practicing software test framework. 
  <h2> Table of Contents  </h2>
